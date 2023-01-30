@@ -18,6 +18,11 @@ h4 {
 }
 /*MAIN*/ 
 
+#image-description {
+    font-size: x-small;
+
+}
+
 .title {
   font-family: "Bevan";
 }
