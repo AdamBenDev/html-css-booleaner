@@ -1,0 +1,16 @@
+#app-header{
+    background-image: url(../img/pattern.png);
+    background-size: 20%;
+    border-style: solid;
+    border-color: #4ea0ff;
+    background-color: #4ea0ff;
+}
+
+h4{
+    color: #8b8b8b;
+}
+
+#logo {
+    height: 70px;
+    margin-left: 1%;
+}
