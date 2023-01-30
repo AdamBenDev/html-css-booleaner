@@ -1,4 +1,4 @@
-/*HEADER*/ 
+/*HEADER*/
 
 #app-header {
   background-image: url(../img/pattern.png);
@@ -16,11 +16,10 @@ h4 {
   height: 70px;
   margin-left: 1%;
 }
-/*MAIN*/ 
+/*MAIN*/
 
 #image-description {
-    font-size: x-small;
-
+  font-size: x-small;
 }
 
 .title {
@@ -28,73 +27,78 @@ h4 {
 }
 
 #UnorderedList {
-    margin-top: 20px;
-    padding-inline-start: 0;
-    list-style-position: inside;
-    font-size: smaller;
+  margin-top: 20px;
+  padding-inline-start: 0;
+  list-style-position: inside;
+  font-size: smaller;
 }
 
 /*TABLE*/
 
-.header-table{
-    background-color: #3995db;
-    text-align:left;
-    color: white;
+.table {
+  margin-top: 10px;
+  font-size: small;
+  border-spacing: 0;
+  margin-bottom: 20px;
+}
+.header-table {
+  background-color: #3995db;
+  text-align: left;
+  color: white;
 }
 
-.body-table{
-    color: black;
+.body-table {
+  color: black;
 }
 
-.first-cells-line{
-    background-color: #b1e5f2;
+.first-cells-line {
+  background-color: #b1e5f2;
 }
 
-.second-cells-line{
-    background-color: white;
+.second-cells-line {
+  background-color: white;
 }
 
-.Third-cell-line{
-    background-color: #b1e5f2;
+.Third-cell-line {
+  background-color: #b1e5f2;
 }
 
-
-.extended-cell{
-    width: 50%;
+.extend-cell {
+  width: 50%;
 }
 
 /*FOOTER*/
 
-.final-text{
-    color: grey;
+.final-text {
+  color: grey;
 }
 
-.final-image-1{
-    margin-top: 10px;
-    background-image: url(../img/monitor.jpg);
-    height: 130px;
-    background-size: contain;
-    background-repeat: no-repeat;
-    color: white;
-    padding: 10px;
-    margin-bottom:10px;
+.final-image-1 {
+  margin-top: 10px;
+  background-image: url(../img/monitor.jpg);
+  height: 130px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  color: white;
+  padding: 10px;
+  margin-bottom: 10px;
 }
 
-.final-image-2{
-    margin-top: 10px;
-    background-image: url(../img/graph.jpg);
-    height: 130px;
-    background-size: contain;
-    background-repeat: no-repeat;
-    color: white;
-    padding: 10px;
-    margin-bottom: 10px;
+.final-image-2 {
+  margin-top: 10px;
+  background-image: url(../img/graph.jpg);
+  height: 130px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  color: white;
+  padding: 10px;
+  margin-bottom: 10px;
 }
 
 /*CENTRE*/
 
-.container{
-    width: 1080px;
-    margin: 0 auto;
+.container {
+  width: 1080px;
+  margin: 0 auto;
+  font-family: Arial, sans-serif;
 }
-
