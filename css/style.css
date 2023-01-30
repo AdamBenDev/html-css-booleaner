@@ -26,11 +26,30 @@ h4 {
     font-size: smaller;
 }
 
+/*TABLE*/
+
 .header-table{
     background-color: #3995db;
     text-align:left;
     color: white;
 }
+
+.body-table{
+    color: black;
+}
+
+.first-cells-line{
+    background-color: #b1e5f2;
+}
+
+.second-cells-line{
+    background-color: white;
+}
+
+.Third-cell-line{
+    background-color: #b1e5f2;
+}
+
 
 .extended-cell{
     width: 50%;
