@@ -1,3 +1,5 @@
+/*HEADER*/ 
+
 #app-header {
   background-image: url(../img/pattern.png);
   background-size: 20%;
@@ -14,6 +16,7 @@ h4 {
   height: 70px;
   margin-left: 1%;
 }
+/*MAIN*/ 
 
 .title {
   font-family: "Bevan";
@@ -82,3 +85,11 @@ h4 {
     padding: 10px;
     margin-bottom: 10px;
 }
+
+/*CENTRE*/
+
+.container{
+    width: 1080px;
+    margin: 0 auto;
+}
+
